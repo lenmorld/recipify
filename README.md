@@ -2,18 +2,26 @@
 
 🥗 Recipify - React Recipe App v1! 🍝
 
-![Recipify v1](https://res.cloudinary.com/dvfhgkkpe/image/upload/v1602072212/lennythedev/react_recipe_app.gif)
+## Live Demo:
 
+http://recipify.surge.sh/
+
+## Screens
+
+Screen:
+![](2020-10-07-08-07-03.png)
+
+GIF:
+![Recipify v1](react_recipe_app.gif)
+
+
+## Features
 
 ✅ (un)favorite and sync to localStorage
 
 ✅ search with themealdb API
 
 ✅ React Hooks + Portal
-
-## Live Demo:
-
-http://recipify.surge.sh/
 
 ## Inspiration / source
 
