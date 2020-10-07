@@ -1,3 +1,20 @@
+# Recipe app
+
+🥗 Recipify - React Recipe App v1! 🍝
+
+![Recipify v1](https://res.cloudinary.com/dvfhgkkpe/image/upload/v1602072212/lennythedev/react_recipe_app.gif)
+
+
+✅ (un)favorite and sync to localStorage
+
+✅ search with themealdb API
+
+✅ React Hooks + Portal
+
+## Live Demo:
+
+http://recipify.surge.sh/
+
 ## Inspiration / source
 
 [10 JavaScript Projects in 10 Hours - Coding Challenge by Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4&t=11656s)
